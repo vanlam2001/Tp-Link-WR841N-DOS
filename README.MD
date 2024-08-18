@@ -10,7 +10,7 @@
 
 - Version: TP-LINK WR841N 3.16.9 Build 160721 Rel.51793n
 
-- Hardware Version:	WR841N v11 00000000
+- Hardware Version: WR841N v11 00000000
 
 - Tested on: Windows
 
@@ -18,9 +18,8 @@
 
 ## Overview
 
-- There exist a buffer overflow vulnerability in TP-LINK WR841N router that can allow an attacker to crash the web server running on the router by sending a crafted request 
-To bring back the http (webserver), a user must physically reboot the route.
-
+- There exist a buffer overflow vulnerability in TP-LINK WR841N router that can allow an attacker to crash the web server running on the router by sending a crafted request
+  To bring back the http (webserver), a user must physically reboot the route.
 
 ## Proof of Concept (Using Burp Suite)
 
@@ -29,3 +28,4 @@ To bring back the http (webserver), a user must physically reboot the route.
 - nmap 192.168.35.1 -p 80 80/tcp closed http
 
 ![](https://www3.0zz0.com/2024/08/10/19/692309672.jpg)
+![](blob:https://www.facebook.com/9f8ba9cb-356e-4d25-83ac-91c758f593fb)
