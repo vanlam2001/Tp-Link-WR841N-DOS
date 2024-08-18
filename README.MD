@@ -28,4 +28,4 @@
 - nmap 192.168.35.1 -p 80 80/tcp closed http
 
 ![](https://www3.0zz0.com/2024/08/10/19/692309672.jpg)
-![](https://www4.0zz0.com/2024/08/18/09/916399463.jpg)
+![](https://www3.0zz0.com/2024/08/18/09/973957328.jpg)
